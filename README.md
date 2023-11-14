@@ -1,5 +1,5 @@
 # Prediction-of-bitcoin-price
-![bitcoin.jpg](download(4).jfif)
+![bitcoin.jpg](download (4).jfif)
 
 # Introduction 
 
